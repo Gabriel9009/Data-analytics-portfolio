@@ -25,5 +25,3 @@ An interactive report exploring demographic and gender-related indicators in Egy
 ## Career Focus
 
 I am interested in applying data analytics to business reporting, KPI monitoring, data quality, operational performance, and evidence-based decision-making.
-
-*Note: Project descriptions and skills should be updated to reflect the work completed and verified in each project.*
